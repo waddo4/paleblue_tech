@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129802333962",
+    "project_id": "paleblue-tech",
+    "storage_bucket": "paleblue-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129802333962:android:52cb230be15b56b45c94f3",
+        "android_client_info": {
+          "package_name": "com.example.paleblue_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129802333962-27hbdbj9b9uereugshn2gkqugr4ah8cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2cnopgFhWdZYM04CA6pCt-hYozkZYOXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129802333962-27hbdbj9b9uereugshn2gkqugr4ah8cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
